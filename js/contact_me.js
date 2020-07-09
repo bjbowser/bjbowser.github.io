@@ -16,6 +16,7 @@ $(function() {
       if (firstName.indexOf(' ') >= 0) {
         firstName = name.split(' ').slice(0, -1).join(' ');
       }
+      /* Cannot use php to send the email, using formspree instead. This script is only validation
       $this = $("#sendMessageButton");
       $this.prop("disabled", true); // Disable submit button until AJAX call is complete to prevent duplicate messages
       $.ajax({
@@ -54,7 +55,7 @@ $(function() {
             $this.prop("disabled", false); // Re-enable submit button when AJAX call is complete
           }, 1000);
         }
-      });
+      });*/
     },
     filter: function() {
       return $(this).is(":visible");
