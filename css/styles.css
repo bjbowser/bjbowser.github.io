@@ -4464,6 +4464,8 @@ input[type=button].btn-block {
 
 .card-title {
   margin-bottom: 0.75rem;
+  font-size: large;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 .card-subtitle {
@@ -4522,7 +4524,9 @@ input[type=button].btn-block {
   right: 0;
   bottom: 0;
   left: 0;
-  padding: 1.25rem;
+  padding: 4.5rem;
+  font-weight: bold;
+  color: black;
 }
 
 .card-img,
@@ -9952,6 +9956,7 @@ a.text-dark:hover, a.text-dark:focus {
 
 .text-muted {
   color: #6c757d !important;
+  margin-top: 4rem;
 }
 
 .text-black-50 {
@@ -10186,11 +10191,9 @@ p.lead {
 .social-icons .social-icon:hover {
   background-color: #bd5d38;
 }
-
 .dev-icons {
   font-size: 3rem;
 }
-
 section.resume-section {
   display: flex;
   align-items: center;
