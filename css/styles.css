@@ -9956,7 +9956,7 @@ a.text-dark:hover, a.text-dark:focus {
 
 .text-muted {
   color: #6c757d !important;
-  margin-top: 4rem;
+  margin-top: 1rem;
 }
 
 .text-black-50 {
@@ -10184,6 +10184,7 @@ p.lead {
   border-radius: 100%;
   font-size: 1.5rem;
   margin-right: 1.5rem;
+  margin-top: 4rem;
 }
 .social-icons .social-icon:last-child {
   margin-right: 0;
