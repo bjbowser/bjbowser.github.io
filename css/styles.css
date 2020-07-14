@@ -625,7 +625,7 @@ pre code {
 }
 @media (min-width: 576px) {
   .container {
-    max-width: 545px;
+    max-width: 535px;
   }
 }
 @media (min-width: 768px) {
@@ -4524,7 +4524,7 @@ input[type=button].btn-block {
   right: 0;
   bottom: 0;
   left: 0;
-  padding: 4.5rem !important;
+  padding: 3.5rem !important;
   font-weight: bold;
   color: black;
 }
