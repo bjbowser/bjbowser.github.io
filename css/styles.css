@@ -143,8 +143,44 @@ body {
 }
 
 #bookmark {
-  float:right; 
+  float: right; 
   margin-left: 20px;
+}
+
+.bookmarkText {
+  position: relative;
+  
+}
+
+.bookmarkText:hover .overlayText {
+  opacity: 1;
+  
+}
+
+.floatingText {
+  position: absolute;
+  text-align: center;
+  vertical-align: center;
+  font-size: 20px;
+  padding: 5px;
+  margin-top: 35%;
+  margin-left: 80%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  background-color: black;
+}
+
+.overlayText {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 105%;
+  width: 105%;
+  opacity: 0;
+  transition: 1s ease;
 }
 
 hr {
@@ -10207,7 +10243,7 @@ section.resume-section {
   align-items: center;
   padding-left: 1rem;
   padding-right: 1rem;
-  padding-top: 5rem;
+  padding-top: 2.5rem;
   padding-bottom: 5rem;
   max-width: 75rem;
 }
@@ -10222,9 +10258,9 @@ section.resume-section .resume-section-content {
 }
 @media (min-width: 992px) {
   section.resume-section {
-    padding-left: 3rem;
-    padding-right: 3rem;
-    padding-top: 5rem;
+    padding-left: 2.5rem;
+    padding-right: 2.5rem;
+    padding-top: 2.5rem;
     padding-bottom: 5rem;
   }
 }
