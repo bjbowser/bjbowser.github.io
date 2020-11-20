@@ -33,12 +33,12 @@
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.bethbowser.com/101RecentAuthors.html</loc>
+  <loc>https://www.bethbowser.com/SeptemberReadingList.html</loc>
   <lastmod>2020-10-01T10:36:11+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.bethbowser.com/111RecentAuthors.html</loc>
+  <loc>https://www.bethbowser.com/OctoberReadingList.html</loc>
   <lastmod>2020-11-01T10:36:11+00:00</lastmod>
   <priority>0.80</priority>
 </url>
@@ -48,7 +48,7 @@
   <priority>0.95</priority>
 </url>
 <url>
-  <loc>https://www.bethbowser.com/91RecentAuthors.html</loc>
+  <loc>https://www.bethbowser.com/AugustReadingList.html</loc>
   <lastmod>2020-09-01T10:29:17+00:00</lastmod>
   <priority>0.80</priority>
 </url>
@@ -68,7 +68,7 @@
   <priority>0.90</priority>
 </url>
 <url>
-  <loc>https://www.bethbowser.com/81RecentAuthors.html</loc>
+  <loc>https://www.bethbowser.com/JulyReadingList.html</loc>
   <lastmod>2020-09-03T16:29:17+00:00</lastmod>
   <priority>0.64</priority>
 </url>
@@ -88,7 +88,7 @@
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.bethbowser.com/71RecentAuthors.html</loc>
+  <loc>https://www.bethbowser.com/JuneReadingList.html</loc>
   <lastmod>2020-09-03T16:29:17+00:00</lastmod>
   <priority>0.64</priority>
 </url>
@@ -103,14 +103,9 @@
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://www.bethbowser.com/61RecentAuthors.html</loc>
+  <loc>https://www.bethbowser.com/MayReadingList.html</loc>
   <lastmod>2020-09-11T16:29:17+00:00</lastmod>
   <priority>0.70</priority>
-</url>
-<url>
-  <loc>https://www.bethbowser.com/uplifting_nonfiction_stories.html</loc>
-  <lastmod>2020-11-01T13:11:17+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.bethbowser.com/NaNoWriMo1.html</loc>
