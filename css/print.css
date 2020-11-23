@@ -1,0 +1,24 @@
+img {
+    display:none;
+  }
+
+#noPrint { 
+    visibility: hidden;
+    display: none;
+} 
+
+.section-heading {
+    text-transform: uppercase;
+  }
+  
+  .section-heading .section-heading-upper {
+    display: block;
+    font-size: 1rem;
+    font-weight: 800;
+  }
+  
+  .section-heading .section-heading-lower {
+    display: block;
+    font-size: 3rem;
+    font-weight: 100;
+  }
