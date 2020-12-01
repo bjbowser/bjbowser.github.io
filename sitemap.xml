@@ -100,15 +100,20 @@
 <url>
   <loc>https://www.bethbowser.com/finance.html</loc>
   <lastmod>2020-11-23T13:11:17+00:00</lastmod>
-  <priority>0.70</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.bethbowser.com/MayReadingList.html</loc>
   <lastmod>2020-11-23T13:11:17+00:00</lastmod>
-  <priority>0.70</priority>
+  <priority>0.60</priority>
 </url>
 <url>
   <loc>https://www.bethbowser.com/NaNoWriMo1.html</loc>
+  <lastmod>2020-11-23T13:11:17+00:00</lastmod>
+  <priority>0.70</priority>
+</url>
+<url>
+  <loc>https://www.bethbowser.com/NovemberReadingList.html</loc>
   <lastmod>2020-11-23T13:11:17+00:00</lastmod>
   <priority>0.80</priority>
 </url>
