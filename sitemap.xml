@@ -4,123 +4,126 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
-
-<url>
-  <loc>https://www.bethbowser.com/</loc>
-  <lastmod>2020-10-20T10:01:17+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://www.bethbowser.com/index.html</loc>
-  <lastmod>2020-10-20T10:01:17+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.bethbowser.com/about.html</loc>
-  <lastmod>2020-10-06T10:25:17+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.bethbowser.com/stories.html</loc>
-  <lastmod>2020-12-17T13:11:17+00:00</lastmod>
-  <priority>0.95</priority>
-</url>
-<url>
-  <loc>https://www.bethbowser.com/subscribe.html</loc>
-  <lastmod>2020-11-19T11:26:17+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.bethbowser.com/SeptemberReadingList.html</loc>
-  <lastmod>2020-11-23T13:11:17+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.bethbowser.com/OctoberReadingList.html</loc>
-  <lastmod>2020-11-23T13:11:17+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.bethbowser.com/Blurb.html</loc>
-  <lastmod>2020-11-23T13:11:17+00:00</lastmod>
-  <priority>0.95</priority>
-</url>
-<url>
-  <loc>https://www.bethbowser.com/AugustReadingList.html</loc>
-  <lastmod>2020-11-23T13:11:17+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.bethbowser.com/writingtips.html</loc>
-  <lastmod>2020-11-23T13:11:17+00:00</lastmod>
-  <priority>0.90</priority>
-</url>
-<url>
-  <loc>https://www.bethbowser.com/finance2.html</loc>
-  <lastmod>2020-11-23T13:11:17+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.bethbowser.com/contact.html</loc>
-  <lastmod>2020-09-11T16:29:17+00:00</lastmod>
-  <priority>0.90</priority>
-</url>
-<url>
-  <loc>https://www.bethbowser.com/JulyReadingList.html</loc>
-  <lastmod>2020-11-23T13:11:17+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.bethbowser.com/HowSweetItIs.html</loc>
-  <lastmod>2020-11-23T13:11:17+00:00</lastmod>
-  <priority>0.90</priority>
-</url>
-<url>
-  <loc>https://www.bethbowser.com/Slowmonth.html</loc>
-  <lastmod>2020-11-23T13:11:17+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.bethbowser.com/TheCurioShop_Prologue.html</loc>
-  <lastmod>2020-11-23T13:11:17+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.bethbowser.com/JuneReadingList.html</loc>
-  <lastmod>2020-11-23T13:11:17+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.bethbowser.com/ya1.html</loc>
-  <lastmod>2020-11-23T13:11:17+00:00</lastmod>
-  <priority>0.70</priority>
-</url>
-<url>
-  <loc>https://www.bethbowser.com/finance.html</loc>
-  <lastmod>2020-11-23T13:11:17+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.bethbowser.com/MayReadingList.html</loc>
-  <lastmod>2020-11-23T13:11:17+00:00</lastmod>
-  <priority>0.60</priority>
-</url>
-<url>
-  <loc>https://www.bethbowser.com/NaNoWriMo1.html</loc>
-  <lastmod>2020-11-23T13:11:17+00:00</lastmod>
-  <priority>0.70</priority>
-</url>
-<url>
-  <loc>https://www.bethbowser.com/NovemberReadingList.html</loc>
-  <lastmod>2020-12-01T13:11:17+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.bethbowser.com/Calls4Submission.html</loc>
-  <lastmod>2020-12-14T13:11:17+00:00</lastmod>
-  <priority>0.85</priority>
-</url>
+  <url>
+    <loc>https://www.bethbowser.com/</loc>
+    <lastmod>2020-10-20T10:01:17+00:00</lastmod>
+    <priority>1.00</priority>
+  </url>
+  <url>
+    <loc>https://www.bethbowser.com/index.html</loc>
+    <lastmod>2020-10-20T10:01:17+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.bethbowser.com/about.html</loc>
+    <lastmod>2020-10-06T10:25:17+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.bethbowser.com/stories.html</loc>
+    <lastmod>2020-12-19T13:11:17+00:00</lastmod>
+    <priority>0.95</priority>
+  </url>
+  <url>
+    <loc>https://www.bethbowser.com/subscribe.html</loc>
+    <lastmod>2020-11-19T11:26:17+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.bethbowser.com/SeptemberReadingList.html</loc>
+    <lastmod>2020-11-23T13:11:17+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.bethbowser.com/OctoberReadingList.html</loc>
+    <lastmod>2020-11-23T13:11:17+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.bethbowser.com/Blurb.html</loc>
+    <lastmod>2020-11-23T13:11:17+00:00</lastmod>
+    <priority>0.95</priority>
+  </url>
+  <url>
+    <loc>https://www.bethbowser.com/AugustReadingList.html</loc>
+    <lastmod>2020-11-23T13:11:17+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.bethbowser.com/writingtips.html</loc>
+    <lastmod>2020-11-23T13:11:17+00:00</lastmod>
+    <priority>0.90</priority>
+  </url>
+  <url>
+    <loc>https://www.bethbowser.com/finance2.html</loc>
+    <lastmod>2020-11-23T13:11:17+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.bethbowser.com/contact.html</loc>
+    <lastmod>2020-09-11T16:29:17+00:00</lastmod>
+    <priority>0.90</priority>
+  </url>
+  <url>
+    <loc>https://www.bethbowser.com/JulyReadingList.html</loc>
+    <lastmod>2020-11-23T13:11:17+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://www.bethbowser.com/HowSweetItIs.html</loc>
+    <lastmod>2020-11-23T13:11:17+00:00</lastmod>
+    <priority>0.90</priority>
+  </url>
+  <url>
+    <loc>https://www.bethbowser.com/Slowmonth.html</loc>
+    <lastmod>2020-11-23T13:11:17+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://www.bethbowser.com/TheCurioShop_Prologue.html</loc>
+    <lastmod>2020-11-23T13:11:17+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://www.bethbowser.com/JuneReadingList.html</loc>
+    <lastmod>2020-11-23T13:11:17+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://www.bethbowser.com/ya1.html</loc>
+    <lastmod>2020-11-23T13:11:17+00:00</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://www.bethbowser.com/finance.html</loc>
+    <lastmod>2020-11-23T13:11:17+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://www.bethbowser.com/MayReadingList.html</loc>
+    <lastmod>2020-11-23T13:11:17+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.bethbowser.com/NaNoWriMo1.html</loc>
+    <lastmod>2020-11-23T13:11:17+00:00</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://www.bethbowser.com/NovemberReadingList.html</loc>
+    <lastmod>2020-12-01T13:11:17+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.bethbowser.com/Calls4Submission.html</loc>
+    <lastmod>2020-12-14T13:11:17+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.bethbowser.com/acceptedsubmissions.html</loc>
+    <lastmod>2020-12-10T13:11:17+00:00</lastmod>
+    <priority>0.85</priority>
+  </url>
 
 </urlset>
