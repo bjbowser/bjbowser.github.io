@@ -12,23 +12,23 @@
   </url>
   <url>
     <loc>https://www.bethbowser.com/index.html</loc>
-    <lastmod>2020-10-20T10:01:17+00:00</lastmod>
-    <priority>0.80</priority>
+    <lastmod>2021-01-15T14:01:17+00:00</lastmod>
+    <priority>0.90</priority>
   </url>
   <url>
     <loc>https://www.bethbowser.com/about.html</loc>
-    <lastmod>2020-10-06T10:25:17+00:00</lastmod>
-    <priority>0.80</priority>
+    <lastmod>2021-01-15T14:25:17+00:00</lastmod>
+    <priority>0.90</priority>
   </url>
   <url>
     <loc>https://www.bethbowser.com/stories.html</loc>
     <lastmod>2021-01-15T12:11:17+00:00</lastmod>
-    <priority>0.95</priority>
+    <priority>0.90</priority>
   </url>
   <url>
     <loc>https://www.bethbowser.com/subscribe.html</loc>
-    <lastmod>2020-11-19T11:26:17+00:00</lastmod>
-    <priority>0.80</priority>
+    <lastmod>2021-01-15T14:26:17+00:00</lastmod>
+    <priority>0.90</priority>
   </url>
   <url>
     <loc>https://www.bethbowser.com/SeptemberReadingList.html</loc>
@@ -62,7 +62,7 @@
   </url>
   <url>
     <loc>https://www.bethbowser.com/contact.html</loc>
-    <lastmod>2020-09-11T16:29:17+00:00</lastmod>
+    <lastmod>2021-01-14T16:29:17+00:00</lastmod>
     <priority>0.90</priority>
   </url>
   <url>
@@ -73,7 +73,7 @@
   <url>
     <loc>https://www.bethbowser.com/HowSweetItIs.html</loc>
     <lastmod>2020-11-23T13:11:17+00:00</lastmod>
-    <priority>0.90</priority>
+    <priority>0.80</priority>
   </url>
   <url>
     <loc>https://www.bethbowser.com/Slowmonth.html</loc>
@@ -113,12 +113,12 @@
   <url>
     <loc>https://www.bethbowser.com/NovemberReadingList.html</loc>
     <lastmod>2020-12-01T13:11:17+00:00</lastmod>
-    <priority>0.80</priority>
+    <priority>0.75</priority>
   </url>
     <url>
     <loc>https://www.bethbowser.com/AIECall4Submissions.html</loc>
     <lastmod>2021-01-15T12:11:17+00:00</lastmod>
-    <priority>0.80</priority>
+    <priority>0.75</priority>
   </url>
   <url>
     <loc>https://www.bethbowser.com/Calls4Submission.html</loc>
@@ -128,7 +128,11 @@
   <url>
     <loc>https://www.bethbowser.com/acceptedsubmissions.html</loc>
     <lastmod>2020-12-10T13:11:17+00:00</lastmod>
-    <priority>0.85</priority>
+    <priority>0.80</priority>
   </url>
-
+  <url>
+    <loc>https://www.bethbowser.com/DecemberReadingList.html</loc>
+    <lastmod>2021-01-15T15:11:17+00:00</lastmod>
+    <priority>0.90</priority>
+  </url>
 </urlset>
