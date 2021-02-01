@@ -135,9 +135,14 @@
     <lastmod>2021-01-15T15:11:17+00:00</lastmod>
     <priority>0.90</priority>
   </url>
-    <url>
+  <url>
     <loc>https://www.bethbowser.com/dextereulogy.html</loc>
     <lastmod>2021-01-15T15:16:17+00:00</lastmod>
     <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.bethbowser.com/writingmethodologies.html</loc>
+    <lastmod>2021-01-31T15:16:17+00:00</lastmod>
+    <priority>0.85</priority>
   </url>
 </urlset>
