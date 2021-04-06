@@ -155,16 +155,21 @@
 <url>
   <loc>https://www.bethbowser.com/FebWritingCompetitions.html</loc>
   <lastmod>2021-02-15T01:29:42+00:00</lastmod>
-  <priority>0.85</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.bethbowser.com/FebruaryReadingList.html</loc>
   <lastmod>2021-03-02T02:29:42+00:00</lastmod>
-  <priority>0.90</priority>
+  <priority>0.85</priority>
 </url>
 <url>
   <loc>https://www.bethbowser.com/HotandBothered.html</loc>
   <lastmod>2021-03-22T02:29:42+00:00</lastmod>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>https://www.bethbowser.com/MarchReadingList.html</loc>
+  <lastmod>2021-04-06T11:49:42+00:00</lastmod>
   <priority>0.90</priority>
 </url>
 
