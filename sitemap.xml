@@ -170,11 +170,16 @@
 <url>
   <loc>https://www.bethbowser.com/MarchReadingList.html</loc>
   <lastmod>2021-05-08T14:49:42+00:00</lastmod>
-  <priority>0.90</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.bethbowser.com/writingrejections.html</loc>
   <lastmod>2021-05-08T14:49:42+00:00</lastmod>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>https://www.bethbowser.com/AprilReadingList.html</loc>
+  <lastmod>2021-05-11T15:42:42+00:00</lastmod>
   <priority>0.90</priority>
 </url>
 
