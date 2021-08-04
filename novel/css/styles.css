@@ -637,7 +637,7 @@ progress {
   }
 }
 .row {
-  --bs-gutter-x: 1.5rem;
+  --bs-gutter-x: 1rem;
   --bs-gutter-y: 0;
   display: flex;
   flex-wrap: wrap;
@@ -2572,103 +2572,6 @@ textarea.form-control-lg {
     transition: none;
   }
 }
-.form-range::-moz-range-thumb:active {
-  background-color: #d1e3e2;
-}
-.form-range::-moz-range-track {
-  width: 100%;
-  height: 0.5rem;
-  color: transparent;
-  cursor: pointer;
-  background-color: #dee2e6;
-  border-color: transparent;
-  border-radius: 1rem;
-}
-.form-range:disabled {
-  pointer-events: none;
-}
-.form-range:disabled::-webkit-slider-thumb {
-  background-color: #adb5bd;
-}
-.form-range:disabled::-moz-range-thumb {
-  background-color: #adb5bd;
-}
-
-.form-floating {
-  position: relative;
-}
-.form-floating > .form-control,
-.form-floating > .form-select {
-  height: calc(3.5rem + 2px);
-  line-height: 1.25;
-}
-.form-floating > label {
-  position: absolute;
-  top: 0;
-  left: 0;
-  height: 100%;
-  padding: 1rem 0.75rem;
-  pointer-events: none;
-  border: 1px solid transparent;
-  transform-origin: 0 0;
-  transition: opacity 0.1s ease-in-out, transform 0.1s ease-in-out;
-}
-@media (prefers-reduced-motion: reduce) {
-  .form-floating > label {
-    transition: none;
-  }
-}
-.form-floating > .form-control {
-  padding: 1rem 0.75rem;
-}
-.form-floating > .form-control::-moz-placeholder {
-  color: transparent;
-}
-.form-floating > .form-control:-ms-input-placeholder {
-  color: transparent;
-}
-.form-floating > .form-control::placeholder {
-  color: transparent;
-}
-.form-floating > .form-control:not(:-moz-placeholder-shown) {
-  padding-top: 1.625rem;
-  padding-bottom: 0.625rem;
-}
-.form-floating > .form-control:not(:-ms-input-placeholder) {
-  padding-top: 1.625rem;
-  padding-bottom: 0.625rem;
-}
-.form-floating > .form-control:focus, .form-floating > .form-control:not(:placeholder-shown) {
-  padding-top: 1.625rem;
-  padding-bottom: 0.625rem;
-}
-.form-floating > .form-control:-webkit-autofill {
-  padding-top: 1.625rem;
-  padding-bottom: 0.625rem;
-}
-.form-floating > .form-select {
-  padding-top: 1.625rem;
-  padding-bottom: 0.625rem;
-}
-.form-floating > .form-control:not(:-moz-placeholder-shown) ~ label {
-  opacity: 0.65;
-  transform: scale(0.85) translateY(-0.5rem) translateX(0.15rem);
-}
-.form-floating > .form-control:not(:-ms-input-placeholder) ~ label {
-  opacity: 0.65;
-  transform: scale(0.85) translateY(-0.5rem) translateX(0.15rem);
-}
-.form-floating > .form-control:focus ~ label,
-.form-floating > .form-control:not(:placeholder-shown) ~ label,
-.form-floating > .form-select ~ label {
-  opacity: 0.65;
-  transform: scale(0.85) translateY(-0.5rem) translateX(0.15rem);
-}
-.form-floating > .form-control:-webkit-autofill ~ label {
-  opacity: 0.65;
-  transform: scale(0.85) translateY(-0.5rem) translateX(0.15rem);
-}
-
 .input-group {
   position: relative;
   display: flex;
@@ -11142,6 +11045,7 @@ body {
 .masthead h1, .masthead .h1 {
   font-family: "Varela Round", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-size: 2.5rem;
+  padding-top: 5rem;
   line-height: 2.5rem;
   letter-spacing: 0.8rem;
   background: linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0));
@@ -11176,18 +11080,18 @@ body {
 }
 
 .about-section {
-  padding-top: 10rem;
+  padding-top: 3rem;
   background: linear-gradient(to bottom, #000 0%, rgba(0, 0, 0, 0.9) 75%, rgba(0, 0, 0, 0.8) 100%);
 }
 .about-section p {
-  margin-bottom: 5rem;
+  margin-bottom: 2rem;
 }
 
 .projects-section {
-  padding: 10rem 0;
+  padding: 2rem 0;
 }
 .projects-section .featured-text {
-  padding: 2rem;
+  padding: 1rem;
 }
 @media (min-width: 992px) {
   .projects-section .featured-text {
@@ -11196,12 +11100,12 @@ body {
   }
 }
 .projects-section .project-text {
-  padding: 3rem;
+  padding: 1rem;
   font-size: 90%;
 }
 @media (min-width: 992px) {
   .projects-section .project-text {
-    padding: 5rem;
+    padding: 2rem;
   }
   .projects-section .project-text hr {
     border-color: #64a19d;
@@ -11210,62 +11114,45 @@ body {
   }
 }
 
-.signup-section {
-  padding: 10rem 0;
-  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 0.5) 75%, #000 100%), url("../assets/img/bg-signup.jpg");
-  background-position: center;
-  background-repeat: no-repeat;
-  background-attachment: scroll;
-  background-size: cover;
-}
-.signup-section .form-signup input {
-  box-shadow: 0 0.1875rem 0.1875rem 0 rgba(0, 0, 0, 0.1) !important;
-  padding: 1.25rem 2rem;
-  height: auto;
-  font-family: "Varela Round", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-  font-size: 80%;
-  text-transform: uppercase;
-  letter-spacing: 0.15rem;
-  border: 0;
+#bookmark {
+  float: left;
 }
 
-.contact-section {
-  padding-top: 5rem;
+.bookmarkText {
+  position: relative;
+  
 }
-.contact-section .card {
-  border: 0;
-  border-bottom: 0.25rem solid #64a19d;
+
+.bookmarkText:hover .overlayText {
+  opacity: 1;
+  
 }
-.contact-section .card h4, .contact-section .card .h4 {
-  font-size: 0.8rem;
-  font-family: "Varela Round", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-  text-transform: uppercase;
-  letter-spacing: 0.15rem;
-}
-.contact-section .card hr {
-  border-color: #64a19d;
-  border-width: 0.25rem;
-  width: 3rem;
-}
-.contact-section .social {
-  margin-top: 5rem;
-}
-.contact-section .social a {
+
+.floatingText {
+  position: absolute;
   text-align: center;
-  height: 3rem;
-  width: 3rem;
-  background: rgba(255, 255, 255, 0.1);
-  border-radius: 100%;
-  line-height: 3rem;
-  color: rgba(255, 255, 255, 0.3);
-}
-.contact-section .social a:hover {
-  color: rgba(255, 255, 255, 0.5);
-}
-.contact-section .social a:active {
-  color: #fff;
+  vertical-align: center;
+  font-size: 20px;
+  padding: 5px;
+  margin-top: 50%;
+  margin-left: 60%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  background-color: black;
 }
 
+.overlayText {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 105%;
+  width: 105%;
+  opacity: 0;
+  transition: 1s ease;
+}
 .footer {
   padding: 5rem 0;
 }

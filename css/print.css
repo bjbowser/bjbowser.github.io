@@ -7,6 +7,10 @@ img {
     display: none;
 } 
 
+#page-top {
+  padding-top: .5rem !important;
+}
+
 .section-heading {
     text-transform: uppercase;
   }
@@ -14,7 +18,7 @@ img {
   .section-heading .section-heading-upper {
     display: block;
     font-size: 1rem;
-    font-weight: 800;
+    font-weight: 700;
   }
   
   .section-heading .section-heading-lower {
