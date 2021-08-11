@@ -19,8 +19,21 @@
 
     <!-- Custom styles for this template -->
     <link href="css/business-casual.min.css" rel="stylesheet">
-
-    <script type="text/javascript" src="https://app.mailjet.com/statics/js/iframeResizer.min.js"></script>
+    
+    <script>
+      (function (s, e, n, d, er) {
+        s['Sender'] = er;
+        s[er] = s[er] || function () {
+          (s[er].q = s[er].q || []).push(arguments)
+        }, s[er].l = 1 * new Date();
+        var a = e.createElement(n),
+            m = e.getElementsByTagName(n)[0];
+        a.async = 1;
+        a.src = d;
+        m.parentNode.insertBefore(a, m)
+      })(window, document, 'script', 'https://cdn.sender.net/accounts_resources/universal.js', 'sender');
+      sender('92faebd5733057')
+    </script>
   </head>
 
   <body>
@@ -67,10 +80,11 @@
             <div class="cta-inner rounded">
               <h2 class="section-heading text-center mb-5">
                 <span class="section-heading-upper">Don't miss anything!</span>
-                <span class="section-heading-lower">Subscribe to be a part of my list of readers</span>
+                <span class="section-heading-lower">Subscribe to be added to my list of readers</span>
               </h2>
-              
-              <iframe class="mj-w-res-iframe" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://app.mailjet.com/widget/iframe/69Uj/Ga3" width="100%"></iframe>
+              <div style="width: 75%;margin: auto;">
+                <div style="text-align: left" class="sender-form-field" data-sender-form-id="ks6gzwtte14yzdgvx5f"></div>
+              </div>
 
             </div>
           </div>

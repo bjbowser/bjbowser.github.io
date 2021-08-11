@@ -19,9 +19,21 @@
 
   <!-- Custom styles for this template -->
   <link href="css/business-casual.min.css" rel="stylesheet">
-  <data id="mj-w-res-data" data-token="6e01b03aa546b705372e9b9c1ccbcac4" class="mj-w-data" data-apikey="69Uj" data-w-id="Ga7" data-lang="en_US" data-base="https://app.mailjet.com" data-width="760" data-height="508" data-statics="statics"></data>
-  <script type="text/javascript" src="https://app.mailjet.com/statics/js/widget.modal.js"></script>
-
+  
+  <script>
+    (function (s, e, n, d, er) {
+      s['Sender'] = er;
+      s[er] = s[er] || function () {
+        (s[er].q = s[er].q || []).push(arguments)
+      }, s[er].l = 1 * new Date();
+      var a = e.createElement(n),
+          m = e.getElementsByTagName(n)[0];
+      a.async = 1;
+      a.src = d;
+      m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', 'https://cdn.sender.net/accounts_resources/universal.js', 'sender');
+    sender('92faebd5733057')
+  </script>
 </head>
 
 <body>
@@ -99,7 +111,7 @@
               <li> Finally, more fun things to come like artwork, contests and more!</li>
             </ol>
             <div class="section-heading mb-4">
-              <span class="section-heading-upper sub" style="font-size: x-large;"><button class="sub" data-token="6e01b03aa546b705372e9b9c1ccbcac4" onclick="mjOpenPopin(event, this)">Subscribe!</button></span>
+              <span class="section-heading-upper sub" style="font-size: x-large;"><button class="sub" id="subscribeBtn">Subscribe!</button></span>
               <span class="section-heading-lower" style="font-size: x-small;"><br>I will never give or sell your data to anyone. I only ask for your email to send you content.</span>
             </div>
           </div>
