@@ -1,11 +1,11 @@
 img {
     display:none;
-  }
+}
 
 #noPrint { 
     visibility: hidden;
     display: none;
-} 
+}
 
 #page-top {
   padding-top: .5rem !important;
@@ -13,16 +13,16 @@ img {
 
 .section-heading {
     text-transform: uppercase;
-  }
+}
   
-  .section-heading .section-heading-upper {
+.section-heading .section-heading-upper {
     display: block;
     font-size: 1rem;
     font-weight: 700;
-  }
+}
   
-  .section-heading .section-heading-lower {
+.section-heading .section-heading-lower {
     display: block;
     font-size: 3rem;
     font-weight: 100;
-  }
+}
