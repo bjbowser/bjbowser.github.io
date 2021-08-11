@@ -11119,6 +11119,10 @@ body {
   color: #000;
 }
 
+img {
+  width: 100%;
+}
+
 .column {
   float: left;
   display: flex;
@@ -11133,6 +11137,12 @@ body {
   content: "";
   clear: both;
   display: table;
+}
+
+@media screen and (max-width: 500px) {
+  .column {
+    width: 100%;
+  }
 }
 
 .footer {
