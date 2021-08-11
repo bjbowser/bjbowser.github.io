@@ -11119,44 +11119,22 @@ body {
   color: #000;
 }
 
-#bookmark {
+.column {
   float: left;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 5%;
+  width: 44%;
+  padding: 2px;
 }
 
-.bookmarkText {
-  position: relative;
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
 }
 
-.bookmarkText:hover .overlayText {
-  opacity: 1;
-}
-
-.floatingText {
-  position: absolute;
-  text-align: center;
-  vertical-align: center;
-  font-size: 20px;
-  padding: 5px;
-  margin-top: 50%;
-  margin-left: 60%;
-  -webkit-transform: translate(-50%, -50%);
-  -ms-transform: translate(-50%, -50%);
-  transform: translate(-50%, -50%);
-  color:white;
-  background-color: black;
-}
-
-.overlayText {
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  height: 105%;
-  width: 105%;
-  opacity: 0;
-  transition: 1s ease;
-}
 .footer {
   padding: 5rem 0;
 }
