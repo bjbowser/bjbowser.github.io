@@ -56,3 +56,9 @@ label {
   border: 0;
   background: none;
   -webkit-appearance: none;}
+
+.novel { color: #0b94e3 !important; 
+    font-weight: bold; 
+    border: 0;
+    background: none;
+    -webkit-appearance: none;}
