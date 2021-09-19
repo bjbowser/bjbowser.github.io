@@ -150,37 +150,37 @@
 <url>
   <loc>https://www.bethbowser.com/FebWritingCompetitions.html</loc>
   <lastmod>2021-08-23T14:42:42+00:00</lastmod>
-  <priority>0.75</priority>
+  <priority>0.70</priority>
 </url>
 <url>
   <loc>https://www.bethbowser.com/FebruaryReadingList.html</loc>
   <lastmod>2021-08-23T14:42:42+00:00</lastmod>
-  <priority>0.80</priority>
+  <priority>0.70</priority>
 </url>
 <url>
   <loc>https://www.bethbowser.com/HotandBothered.html</loc>
   <lastmod>2021-08-23T14:42:42+00:00</lastmod>
-  <priority>0.85</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.bethbowser.com/MarchReadingList.html</loc>
   <lastmod>2021-08-23T14:42:42+00:00</lastmod>
-  <priority>0.80</priority>
+  <priority>0.70</priority>
 </url>
 <url>
   <loc>https://www.bethbowser.com/writingrejections.html</loc>
   <lastmod>2021-08-23T14:42:42+00:00</lastmod>
-  <priority>0.80</priority>
+  <priority>0.70</priority>
 </url>
 <url>
   <loc>https://www.bethbowser.com/AprilReadingList.html</loc>
   <lastmod>2021-08-23T14:42:42+00:00</lastmod>
-  <priority>0.80</priority>
+  <priority>0.70</priority>
 </url>
 <url>
   <loc>https://www.bethbowser.com/May2021ReadingList.html</loc>
   <lastmod>2021-08-23T14:42:42+00:00</lastmod>
-  <priority>0.90</priority>
+  <priority>0.70</priority>
 </url>
 <url>
   <loc>https://www.bethbowser.com/June2021ReadingList.html</loc>
@@ -195,6 +195,11 @@
 <url>
   <loc>https://www.bethbowser.com/novel/beyondtheschemes.html</loc>
   <lastmod>2021-08-23T14:42:42+00:00</lastmod>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>https://www.bethbowser.com/August2021ReadingList.html</loc>
+  <lastmod>2021-09-18T14:42:42+00:00</lastmod>
   <priority>0.90</priority>
 </url>
 
