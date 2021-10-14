@@ -19,7 +19,7 @@
 </url>
 <url>
   <loc>https://www.bethbowser.com/stories.html</loc>
-  <lastmod>2021-08-23T14:42:42+00:00</lastmod>
+  <lastmod>2021-10-14T14:42:42+00:00</lastmod>
   <priority>0.90</priority>
 </url>
 <url>
@@ -185,21 +185,26 @@
 <url>
   <loc>https://www.bethbowser.com/June2021ReadingList.html</loc>
   <lastmod>2021-08-23T14:42:42+00:00</lastmod>
-  <priority>0.80</priority>
+  <priority>0.70</priority>
 </url>
 <url>
   <loc>https://www.bethbowser.com/July2021ReadingList.html</loc>
   <lastmod>2021-08-23T14:42:42+00:00</lastmod>
-  <priority>0.80</priority>
+  <priority>0.70</priority>
 </url>
 <url>
   <loc>https://www.bethbowser.com/novel/beyondtheschemes.html</loc>
   <lastmod>2021-10-01T09:43:42+00:00</lastmod>
-  <priority>0.90</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.bethbowser.com/August2021ReadingList.html</loc>
-  <lastmod>2021-09-18T14:42:42+00:00</lastmod>
+  <lastmod>2021-09-18T12:42:42+00:00</lastmod>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>https://www.bethbowser.com/September2021ReadingList.html</loc>
+  <lastmod>2021-10-14T14:42:42+00:00</lastmod>
   <priority>0.90</priority>
 </url>
 
