@@ -46,7 +46,11 @@
         $('#showUpdates').text("Updates");
         $('#showReviews').text("Reading Lists");
         $('#showStories').text("Stories");
-        $('#morePosts').text("Show More Stories!");
+        $('#morePosts').text("Load More Posts!");
+        $('#morePostsLow').text("Load More Posts!");
+
+        document.body.scrollTop = 200;
+        document.documentElement.scrollTop = 200; 
 
       } else {
         var hiddenPosts = $('.post:hidden');
@@ -59,7 +63,9 @@
       } else if (hiddenPosts.length > 0 && hiddenPosts.length < 3) {
           hiddenPosts.show(); 
           $('#morePosts').prop('disabled', true);
-          $('#morePosts').text("All Posts Showing!");}
+          $('#morePostsLow').prop('disabled', true);
+          $('#morePosts').text("All Posts Showing!");
+          $('#morePostsLow').text("All Posts Showing!");}
       }
     }
 
@@ -77,6 +83,7 @@
       $('#showStories').prop('disabled', true);
       $('#showStories').text("All Stories Shown");
       $('#morePosts').text("Reset");
+      $('#morePostsLow').text("Reset");
     }
 
     function loadUpdates()
@@ -93,6 +100,7 @@
       $('#showUpdates').prop('disabled', true);
       $('#showUpdates').text("All Updates Shown");
       $('#morePosts').text("Reset");
+      $('#morePostsLow').text("Reset");
     }
 
     function loadTips()
@@ -109,6 +117,7 @@
       $('#showTips').prop('disabled', true);
       $('#showTips').text("All Tips Shown");
       $('#morePosts').text("Reset");
+      $('#morePostsLow').text("Reset");
     }
 
     function loadReviews()
@@ -125,6 +134,7 @@
       $('#showReviews').prop('disabled', true);
       $('#showReviews').text("All Reading Lists Shown");
       $('#morePosts').text("Reset");
+      $('#morePostsLow').text("Reset");
     }
 
   </script>
@@ -170,7 +180,7 @@
             <a class="nav-link text-uppercase text-expanded" href="about.html">About</a>
           </li>
           <li class="nav-item active px-lg-4">
-            <a class="nav-link text-uppercase text-expanded" href="#">Stories
+            <a class="nav-link text-uppercase text-expanded" href="#">Writings
               <span class="sr-only">(current)</span>
             </a>
           </li>
@@ -197,14 +207,14 @@
               </h2>
               <p class="mb-0">Currently I make sure to include a monthly review on the novels I have read during the month and I fill in with various other items that are hopefully of interest to you such as articles, exerpts from my writings, and some cool things I found and want to share! I am constantly learning, so I will likely add other types of posts, but please <a href="contact.html">reach out</a> and let me know if about anything specific you would like to see!</p><br/>
               <p class="mb-0">Each story below has a print icon for those who dislike reading on their computers and/or phones. You can now click on the print button which removes all the pictures and styling from the webpage for a simple and easy way to print the text for your ease of reading!</p><br/>
-              <p class="col-lg-0"><b>Newly added!!!</b>Toggle buttons to display only the content on this page you are most interested in!<br/>
+              <p class="col-lg-0"><b>Newly added!!!</b> I placed my previously emailed newsletters on this site! Go to my <a href="contact.html">contact</a> page and look for the newsletters heading. FYI, newsletters will not appear until a month has passed since the inital sending. Please <a href="subscribe.html">subscribe</a> if you want to get newsletters on time!<br/>
                 <div class="row">
                   <div class="col-sm-3"><button id="showReviews" class="product-item-img mx-auto d-flex rounded img-fluid btn-primary" onclick="loadReviews()">Reading Lists</button></div>
                   <div class="col-sm-3"><button id="showStories" class="product-item-img mx-auto d-flex rounded img-fluid btn-primary" onclick="loadStories()">Stories</button></div>
                   <div class="col-sm-3"><button id="showTips" class="product-item-img mx-auto d-flex rounded img-fluid btn-primary" onclick="loadTips()">Tips</button></div>
                   <div class="col-sm-3"><button id="showUpdates" class="product-item-img mx-auto d-flex rounded img-fluid btn-primary" onclick="loadUpdates()">Updates</button></div>
                 </div></p>
-                <div class="row"><button id="morePosts" class="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0 btn-primary" onclick="loadMore()">Load More Stories!</button></p></div>
+                <div class="row"><button id="morePosts" class="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0 btn-primary" onclick="loadMore()">Load More Posts!</button></p></div>
             </div>
           </div>
         </div>
@@ -1105,7 +1115,7 @@
   <section class="page-section">
     <div class="container">
       <div class="product-item">
-        <button id="morePosts" class="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0 btn-primary" onclick="loadMore()">Load More Stories!</button> 
+        <button id="morePostsLow" class="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0 btn-primary" onclick="loadMore()">Load More Posts!</button> 
       </div>
     </div>
   </section>
