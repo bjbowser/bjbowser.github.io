@@ -40,7 +40,7 @@
 <url>
   <loc>https://www.bethbowser.com/JanuaryReadingList.html</loc>
   <lastmod>2021-11-10T10:03:42+00:00</lastmod>
-  <priority>0.84</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.bethbowser.com/writingmethodologies.html</loc>
@@ -55,7 +55,7 @@
 <url>
   <loc>https://www.bethbowser.com/DecemberReadingList.html</loc>
   <lastmod>2021-11-10T10:03:42+00:00</lastmod>
-  <priority>0.74</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.bethbowser.com/acceptedsubmissions.html</loc>
@@ -95,7 +95,7 @@
 <url>
   <loc>https://www.bethbowser.com/HowSweetItIs.html</loc>
   <lastmod>2021-11-10T10:03:42+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.84</priority>
 </url>
 <url>
   <loc>https://www.bethbowser.com/AugustReadingList.html</loc>
@@ -150,12 +150,12 @@
 <url>
   <loc>https://www.bethbowser.com/FebWritingCompetitions.html</loc>
   <lastmod>2021-11-10T10:03:42+00:00</lastmod>
-  <priority>0.70</priority>
+  <priority>0.60</priority>
 </url>
 <url>
   <loc>https://www.bethbowser.com/FebruaryReadingList.html</loc>
   <lastmod>2021-11-10T10:03:42+00:00</lastmod>
-  <priority>0.70</priority>
+  <priority>0.60</priority>
 </url>
 <url>
   <loc>https://www.bethbowser.com/HotandBothered.html</loc>
@@ -165,7 +165,7 @@
 <url>
   <loc>https://www.bethbowser.com/MarchReadingList.html</loc>
   <lastmod>2021-11-10T10:03:42+00:00</lastmod>
-  <priority>0.70</priority>
+  <priority>0.60</priority>
 </url>
 <url>
   <loc>https://www.bethbowser.com/writingrejections.html</loc>
@@ -175,22 +175,22 @@
 <url>
   <loc>https://www.bethbowser.com/AprilReadingList.html</loc>
   <lastmod>2021-11-10T10:03:42+00:00</lastmod>
-  <priority>0.70</priority>
+  <priority>0.60</priority>
 </url>
 <url>
   <loc>https://www.bethbowser.com/May2021ReadingList.html</loc>
   <lastmod>2021-11-10T10:03:42+00:00</lastmod>
-  <priority>0.70</priority>
+  <priority>0.60</priority>
 </url>
 <url>
   <loc>https://www.bethbowser.com/June2021ReadingList.html</loc>
   <lastmod>2021-11-10T10:03:42+00:00</lastmod>
-  <priority>0.70</priority>
+  <priority>0.60</priority>
 </url>
 <url>
   <loc>https://www.bethbowser.com/July2021ReadingList.html</loc>
   <lastmod>2021-11-10T10:03:42+00:00</lastmod>
-  <priority>0.70</priority>
+  <priority>0.60</priority>
 </url>
 <url>
   <loc>https://www.bethbowser.com/novel/beyondtheschemes.html</loc>
@@ -200,17 +200,31 @@
 <url>
   <loc>https://www.bethbowser.com/August2021ReadingList.html</loc>
   <lastmod>2021-11-10T10:03:42+00:00</lastmod>
-  <priority>0.80</priority>
+  <priority>0.60</priority>
 </url>
 <url>
   <loc>https://www.bethbowser.com/September2021ReadingList.html</loc>
   <lastmod>2021-11-10T10:03:42+00:00</lastmod>
-  <priority>0.90</priority>
+  <priority>0.60</priority>
 </url>
 <url>
   <loc>https://www.bethbowser.com/October2021ReadingList.html</loc>
   <lastmod>2021-11-10T10:03:42+00:00</lastmod>
-  <priority>0.90</priority>
+  <priority>0.60</priority>
 </url>
-
+<url>
+  <loc>https://www.bethbowser.com/FieryPolitics.html</loc>
+  <lastmod>2022-11-23T10:11:30+00:00</lastmod>
+  <priority>0.84</priority>
+</url>
+<url>
+  <loc>https://www.bethbowser.com/CommunityParagons.html</loc>
+  <lastmod>2022-11-23T10:11:30+00:00</lastmod>
+  <priority>0.84</priority>
+</url>
+<url>
+  <loc>https://www.bethbowser.com/Stagnation-of-a-city.html</loc>
+  <lastmod>2022-11-23T10:11:30+00:00</lastmod>
+  <priority>0.84</priority>
+</url>
 </urlset>
